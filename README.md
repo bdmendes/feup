@@ -84,9 +84,9 @@ With that being said, feel free to explore the repositories.
         <td>EIC0012</td>
         <td>PROG</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436430">Programming</a></td>
+        <td><a href="https://github.com/bdmendes/feup-prog-oware">✔️</a><a href="https://github.com/Sirze01/feup-prog-scrabble-junior">✔️</a></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-prog-exam-cheat-sheet">✔️</a></td>
     </tr>
     <tr>
         <td>EIC0010</td>
@@ -142,7 +142,7 @@ With that being said, feel free to explore the repositories.
         <td>EIC0013</td>
         <td>AEDA</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459471">Algorithms and Data Structures</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-aeda-bakery">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -150,7 +150,7 @@ With that being said, feel free to explore the repositories.
         <td>EIC0020</td>
         <td>LCOM</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459473">Computer Laboratory</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-lcom">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -167,8 +167,8 @@ With that being said, feel free to explore the repositories.
         <td>EIC0110</td>
         <td>CAL</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459479">Algorithm Design and Analysis</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-cal-parking">✔️</a></td>
+        <td><a href="https://github.com/bdmendes/feup-cal">✔️</a></td>
         <td></td>
     </tr>
     <tr>
@@ -183,7 +183,7 @@ With that being said, feel free to explore the repositories.
         <td>EIC0027</td>
         <td>SOPE</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459478">Operating Systems</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-sope-xmod">✔️</a><a href="https://github.com/bdmendes/feup-sope-server-client">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -191,7 +191,7 @@ With that being said, feel free to explore the repositories.
         <td>EIC0111</td>
         <td>LPOO</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459480">Object Oriented Programming Laboratory</a></td>
-        <td></td>
+        <td><a href="https://github.com/fernandorego/feup-lpoo-pacman">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -201,7 +201,7 @@ With that being said, feel free to explore the repositories.
         <td>L.EIC023</td>
         <td>LBAW</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484433">Database and Web Applications Laboratory</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-lbaw-bright-events">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -209,7 +209,7 @@ With that being said, feel free to explore the repositories.
         <td>L.EIC025</td>
         <td>RCOM</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484435">Computer Networks</a></td>
-        <td></td>
+        <td><a href="https://github.com/Sirze01/feup-rc-data-link">✔️</a><a href="https://github.com/bdmendes/feup-rc-ftp">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -225,7 +225,7 @@ With that being said, feel free to explore the repositories.
         <td>L.EIC024</td>
         <td>PFL</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484434">Functional and Logic Programming</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-pfl-jeson-mor">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -233,7 +233,7 @@ With that being said, feel free to explore the repositories.
         <td>L.EIC019</td>
         <td>LTW</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484427">Web Languages and Technologies</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-ltw-mancala">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -250,7 +250,7 @@ With that being said, feel free to explore the repositories.
         <td>L.EIC028</td>
         <td>CPD</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484381">Parallel and Distributed Computing</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-cpd-distributed-key-value-store">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -258,15 +258,15 @@ With that being said, feel free to explore the repositories.
         <td>L.EIC026</td>
         <td>COMP</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484379">Compilers</a></td>
+        <td><a href="https://github.com/fernandorego/feup-comp">✔️</a></td>
         <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-comp-cheat-sheet">✔️</a></td>
     </tr>
     <tr>
         <td>L.EIC029</td>
         <td>IART</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484442">Artificial Intelligence</a></td>
-        <td></td>
+        <td><a href="https://github.com/fernandorego/feup-iart-traffic-signaling">✔️</a><a href="https://github.com/dtpreda/feup-iart-emotion-detector">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -309,7 +309,7 @@ With that being said, feel free to explore the repositories.
         <td>M.EIC004</td>
         <td>SDLE</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501934">Large Scale Distributed Systems</a></td>
-        <td></td>
+        <td><a href="https://github.com/dtpreda/feup-sdle-pubsub">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -317,7 +317,7 @@ With that being said, feel free to explore the repositories.
         <td>M.EIC005</td>
         <td>SGI</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501935">Interactive Graphics Systems</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-sgi-checkers">✔️</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -342,8 +342,8 @@ With that being said, feel free to explore the repositories.
         <td>M.EIC012</td>
         <td>CPM</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501940">Mobile Computing</a></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-cpm-touristic-wallet">✔️</a></td>
+        <td><a href="https://github.com/bdmendes/feup-cpm">✔️</a></td>
         <td></td>
     </tr>
     <tr>
