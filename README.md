@@ -2,6 +2,7 @@
 
 Compilation of academic work I have done during my time at the Faculty of Engineering of the University of Porto (FEUP). A few things to keep in mind:
 
+- This is not a complete collection of all the work I have done. I have only included the work I consider to be relevant and that I am allowed to share.
 - This is intended for educational and historical purposes only. The code and other artifacts presented may be outdated or incomplete.
 - I am not responsible for any issue that may arise from the use of this content. If you choose to use it, you do so at risk of failing your course or getting into any other kind of trouble.
 
@@ -279,7 +280,7 @@ With that being said, feel free to explore the repositories.
         <td></td>
     </tr>
     <tr>
-        <th rowspan="20">MSc</th>
+        <th rowspan="16">MSc</th>
         <th rowspan="10">1st Year</th>
         <th rowspan="5">1st Semester</th>
         <td>M.EIC001</td>
@@ -405,7 +406,7 @@ With that being said, feel free to explore the repositories.
         <td></td>
     </tr>
     <tr>
-        <th rowspan="5">2nd Semester</th>
+        <th rowspan="1">2nd Semester</th>
         <td>M.EIC008</td>
         <td>DISS</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=518848">Dissertation</a></td>
