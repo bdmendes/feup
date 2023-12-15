@@ -176,7 +176,7 @@ With that being said, feel free to explore the repositories.
         <td>EIC0119</td>
         <td>CGRA</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459476">Computer Graphics</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-cgra-undersea">✅</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -243,7 +243,7 @@ With that being said, feel free to explore the repositories.
         <td>L.EIC030</td>
         <td>PI</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=484443">Capstone Project</a></td>
-        <td></td>
+        <td><a href="https://github.com/dtpreda/feup-pi-embedded-mouse">✅</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -286,7 +286,7 @@ With that being said, feel free to explore the repositories.
         <td>M.EIC001</td>
         <td>AC</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501931">Machine Learning</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-ac-banking">✅</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -377,7 +377,7 @@ With that being said, feel free to explore the repositories.
         <td>M.EIC044</td>
         <td>TACS</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=518844">Advanced Software Construction Techniques</a></td>
-        <td></td>
+        <td><a href="https://github.com/Sirze01/feup-tacs-devOps">✅</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -385,15 +385,15 @@ With that being said, feel free to explore the repositories.
         <td>M.EIC033</td>
         <td>CHE</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=518835">Efficient Heterogeneous Computing</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-che-knn-optimization">✅</a></td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>M.EIC041</td>
-        <td>ROBO</td>
+        <td>RI</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=518841">Intelligent Robotics</a></td>
-        <td></td>
+        <td><a href="https://github.com/marhcouto/diff-reactive-bot">✅</a><a href="https://github.com/bdmendes/feup-ri-city-slam/">✅</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -401,7 +401,7 @@ With that being said, feel free to explore the repositories.
         <td>MESW0013</td>
         <td>COSN</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=518498">Cloud and Service Oriented Computing</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-cosn-web-market">✅</a></td>
         <td></td>
         <td></td>
     </tr>
