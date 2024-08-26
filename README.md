@@ -410,7 +410,7 @@ With that being said, feel free to explore the repositories.
         <td>M.EIC008</td>
         <td>DISS</td>
         <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=518848">Dissertation</a></td>
-        <td></td>
+        <td><a href="https://github.com/bdmendes/feup-thesis-rt-drl">✅</a></td>
         <td></td>
         <td></td>
     </tr>
